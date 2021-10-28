@@ -121,12 +121,22 @@
     {
       "name": "Oswald",
       "species": "Octopus",
-      "diet": "omnivore",
+      "diet": "carnivore",
       "personalityTraits": [
         "clever",
         "friendly"
       ],
       "id": "12"
+    },
+    {
+      "name": "Bruno",
+      "species": "Bull",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "13"
     }
   ]
 }
